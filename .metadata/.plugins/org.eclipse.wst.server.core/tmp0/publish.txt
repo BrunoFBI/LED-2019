@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Feb 13 18:47:13 BRST 2019
+org.eclipse.jst.j2ee.server\:les12015-core=WEB-INF/lib/les12015-core.jar
+org.eclipse.jst.j2ee.server\:les12015-dominio=WEB-INF/lib/les12015-dominio.jar

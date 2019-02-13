@@ -1,0 +1,200 @@
+
+fev 12, 2019 13:18:47.18 NEW SESSION
+fev 12, 2019 13:18:47.18 [7364:10320:0212/131847.186:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+fev 12, 2019 13:18:47.50 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.50 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.50 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.50 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.505:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.54 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.506:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:18:47.55 [7364:10320:0212/131847.507:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 12, 2019 13:46:26.92 [7364:4244:0212/134626.928:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 13:46:27.05 [7364:4244:0212/134627.050:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 13:48:41.76 [7364:4244:0212/134841.765:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 13:48:41.89 [7364:4244:0212/134841.898:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 14:04:09.86 [7364:4244:0212/140409.860:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 14:04:09.98 [7364:4244:0212/140409.986:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+fev 12, 2019 18:24:47.96 [7364:12268:0212/182447.967:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+fev 12, 2019 18:24:49.09 [7364:12268:0212/182449.099:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+fev 12, 2019 18:24:56.20 [7364:12268:0212/182456.205:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+fev 12, 2019 18:25:16.86 [7364:12268:0212/182516.867:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+fev 12, 2019 18:25:26.36 [7364:12268:0212/182526.365:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+
+fev 13, 2019 10:17:04.75 NEW SESSION
+fev 13, 2019 10:17:04.75 [5440:15420:0213/101704.751:ERROR:install_util.cc(687)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.02 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.012:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.03 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.04 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.04 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.04 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.04 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.04 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.013:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.019:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.06 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.020:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.021:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 10:17:05.07 [5440:15420:0213/101705.021:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+fev 13, 2019 11:47:31.79 [5440:11304:0213/114731.793:ERROR:audio_low_latency_output_win.cc(418)] WASAPI rendering failed.
+fev 13, 2019 17:16:57.12 [5440:14528:0213/171657.129:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:16:57.13 [5440:14528:0213/171657.136:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:18:53.55 [5440:14528:0213/171853.557:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:18:53.56 [5440:14528:0213/171853.562:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:19:50.77 [5440:14528:0213/171950.776:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:19:50.78 [5440:14528:0213/171950.785:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:23:06.12 [5440:14528:0213/172306.128:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:23:06.13 [5440:14528:0213/172306.132:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:29:36.87 [5440:14528:0213/172936.875:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:29:36.88 [5440:14528:0213/172936.882:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:36:19.78 [5440:14528:0213/173619.783:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:36:19.79 [5440:14528:0213/173619.791:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:38:04.76 [5440:14528:0213/173804.767:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:38:05.00 [5440:14528:0213/173805.004:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:38:11.42 [5440:14528:0213/173811.423:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:38:11.43 [5440:14528:0213/173811.430:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:39:41.81 [5440:14528:0213/173941.817:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:39:42.52 [5440:14528:0213/173942.527:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:39:47.45 [5440:14528:0213/173947.452:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:39:47.46 [5440:14528:0213/173947.460:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:40:06.39 [5440:14528:0213/174006.397:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:40:06.61 [5440:14528:0213/174006.612:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:41:06.36 [5440:14528:0213/174106.366:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:41:06.51 [5440:14528:0213/174106.512:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:46:19.62 [5440:14528:0213/174619.621:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:46:19.62 [5440:14528:0213/174619.627:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:50:05.83 [5440:14528:0213/175005.831:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:50:05.83 [5440:14528:0213/175005.837:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:51:08.73 [5440:14528:0213/175108.734:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:51:08.73 [5440:14528:0213/175108.739:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:53:16.13 [5440:14528:0213/175316.130:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:53:16.13 [5440:14528:0213/175316.138:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:56:04.41 [5440:5876:0213/175604.415:ERROR:audio_low_latency_output_win.cc(418)] WASAPI rendering failed.
+fev 13, 2019 17:58:54.72 [5440:14528:0213/175854.726:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 17:58:54.74 [5440:14528:0213/175854.732:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:00:20.46 [5440:14528:0213/180020.466:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:00:20.47 [5440:14528:0213/180020.471:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:00:24.44 [5440:14528:0213/180024.447:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:00:24.45 [5440:14528:0213/180024.453:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:07:58.08 [5440:14528:0213/180758.086:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:07:58.09 [5440:14528:0213/180758.091:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:13:33.90 [5440:14528:0213/181333.900:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:13:33.90 [5440:14528:0213/181333.905:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:15:56.63 [5440:14528:0213/181556.638:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+fev 13, 2019 18:15:56.78 [5440:14528:0213/181556.781:ERROR:extension_protocols.cc(568)] Allowing load of chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/include.postload.js.mapfrom unknown origin. Could not find user data for request.
